@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Solve">Solve!</string>
+    <string name="Clear">Clear</string>
+    <string name="Hint">Hint</string>
+    <string name="Greetings">How may I help you?</string>
+    <string name="GLHF">Good luck, have fun!</string>
+    <string name="New">New!</string>
+    <string name="Welcome">Welcome to Sudoku</string>
+    <string name="LetsPlay">Let\'s play</string>
+    <string name="History">History</string>
+    <string name="HelpMe">Solve</string>
+    <string name="Play">Play</string>
+</resources>
